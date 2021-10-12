@@ -1,4 +1,4 @@
-# vue3-cli-test
+# vue-01-birthday-reminder
 
 ## Project setup
 ```
